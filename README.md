@@ -20,5 +20,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href="https://www.linkedin.com/in/v%C3%ADtor-rossi-262bb0341/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div> ![Snake animation](https://github.com/VitorRoss1) </div>
 
