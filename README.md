@@ -1,7 +1,8 @@
 ## Hi there 👋 Welcome to my GitHub!
 
 ### I'm Vítor Rossi,
-### ...
+### Software Engineering Undergraduate at University of Brasília (UnB)
+# ... 
 
 
 #### Main Tecnologies:
