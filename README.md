@@ -23,13 +23,4 @@
 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VitorRoss1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div> 
-  <a href = "mailto:vitorcrossi159@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/v%C3%ADtor-rossi-262bb0341/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
 
