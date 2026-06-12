@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&width=435&lines=Hello%2C+World!+%F0%9F%8C%90+;Welcome+to+my+Github!+%F0%9F%91%8B+)](https://git.io/typing-svg)
 
 </div>
+
 ##  About Me:
 ### I'm Vítor Rossi,
-### Software Engineering Undergraduate at University of Brasília (UnB)<br>interested in cybersecurity<br>
+### Software Engineering Undergraduate at University of Brasília (UnB)<br> Interested in cybersecurity<br>
 #### ... 
 
 
