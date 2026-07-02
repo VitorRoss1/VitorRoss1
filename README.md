@@ -6,7 +6,8 @@
 
 ##  About Me:
 ### I'm Vítor Rossi,
-### Software Engineering Undergraduate at University of Brasília (UnB)<br> Interested in cybersecurity<br>
+- Software Engineering Undergraduate at University of Brasília (UnB)
+- Interested in cybersecurity
 
  
 ## 💻 Tech Stack:
