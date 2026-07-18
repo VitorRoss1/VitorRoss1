@@ -5,7 +5,6 @@
 </div>
 
 ##  About Me:
-### I'm Vítor Rossi,
 - Software Engineering Undergraduate at University of Brasília (UnB)
 - Interested in cybersecurity
 
